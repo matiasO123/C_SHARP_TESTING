@@ -1,0 +1,17 @@
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.exe.config
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.exe
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.pdb
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.csproj.AssemblyReference.cache
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas_Unitarias.Properties.Resources.resources
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.csproj.GenerateResource.cache
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.csproj.CoreCompileInputs.cache
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.exe
+C:\Users\molivieri_ceibustech\Desktop\Varios\Mati\Tecnicatura\Pruebas\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.pdb
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.exe.config
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.exe
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\bin\Debug\Pruebas Unitarias.pdb
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas_Unitarias.Properties.Resources.resources
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.csproj.GenerateResource.cache
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.csproj.CoreCompileInputs.cache
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.exe
+D:\Portfolio\Pruebas Unitarias\Pruebas Unitarias\obj\Debug\Pruebas Unitarias.pdb

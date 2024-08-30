@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2F8EF3-71FA-4A27-82B3-11EB983C00F4}|Pruebas\\Pruebas.csproj|c:\\users\\molivieri_ceibustech\\desktop\\varios\\mati\\tecnicatura\\pruebas\\pruebas unitarias\\pruebas\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2F8EF3-71FA-4A27-82B3-11EB983C00F4}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3527D3-E390-4DE3-A6AB-2A17748AB41B}|Pruebas Unitarias\\Pruebas Unitarias.csproj|c:\\users\\molivieri_ceibustech\\desktop\\varios\\mati\\tecnicatura\\pruebas\\pruebas unitarias\\pruebas unitarias\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3527D3-E390-4DE3-A6AB-2A17748AB41B}|Pruebas Unitarias\\Pruebas Unitarias.csproj|solutionrelative:pruebas unitarias\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3527D3-E390-4DE3-A6AB-2A17748AB41B}|Pruebas Unitarias\\Pruebas Unitarias.csproj|c:\\users\\molivieri_ceibustech\\desktop\\varios\\mati\\tecnicatura\\pruebas\\pruebas unitarias\\pruebas unitarias\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3527D3-E390-4DE3-A6AB-2A17748AB41B}|Pruebas Unitarias\\Pruebas Unitarias.csproj|solutionrelative:pruebas unitarias\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas\\UnitTest.cs",
+              "RelativeDocumentMoniker": "Pruebas\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas\\UnitTest.cs",
+              "RelativeToolTip": "Pruebas\\UnitTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:19:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas Unitarias\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Pruebas Unitarias\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas Unitarias\\ProductManager.cs",
+              "RelativeToolTip": "Pruebas Unitarias\\ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:17:30.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas Unitarias\\Product.cs",
+              "RelativeDocumentMoniker": "Pruebas Unitarias\\Product.cs",
+              "ToolTip": "C:\\Users\\molivieri_ceibustech\\Desktop\\Varios\\Mati\\Tecnicatura\\Pruebas\\Pruebas Unitarias\\Pruebas Unitarias\\Product.cs",
+              "RelativeToolTip": "Pruebas Unitarias\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T17:16:28.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
